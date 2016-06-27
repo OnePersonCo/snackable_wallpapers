@@ -1,0 +1,16 @@
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "Lotte Lohr",
+			"url": "http://i.imgur.com/JUk6pTy.jpg",
+			"name": "Banana Wall"
+		},
+		{
+			"author": "Henry Doe",
+			"url": "http://i.imgur.com/6GZmeJ9.jpg",
+			"name": "Green Bananas"
+		},
+		 
+	]
+}
