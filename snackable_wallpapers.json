@@ -1,22 +1,16 @@
 {
   "wallpapers": [
     {
-      "author": "Tom Wellington",
-      "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
+      "author": "Lotte Lohr",
+      "url": "http://i.imgur.com/JUk6pTy.jpg",
       "name": "Banana Wall",
       "thumbnail": "http://i.imgur.com/irtqjNa.jpg"
     },
     {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+      "author": "Henry Doe",
+      "url": "http://i.imgur.com/6GZmeJ9.jpg",
       "name": "Green Bananas",
       "thumbnail": "http://i.imgur.com/CmRz7BH.jpg"
-    },
-    {
-      "author": "Tom Wellington",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name":" Flamingos",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
     }
   ]
 }
