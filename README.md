@@ -1,6 +1,5 @@
-###### <font="#ffc107">SNACKABLE</font>
+###### SNACKABLE
 # Wallpapers
 By: Developer Nick
 
 
-<font=#ffc107>fontcolor</font>
