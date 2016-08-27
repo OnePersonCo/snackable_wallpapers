@@ -1,6 +1,18 @@
 {
   "wallpapers": [
     {
+      "author": "Rocío Pérez Rodríguez",
+      "url": "http://i.imgur.com/9zAImWV.jpg",
+      "name": "Served Table",
+      "thumbnail": "http://i.imgur.com/i2VSB6c.jpg"
+    },
+    {
+      "author": "Andrew Ridley",
+      "url": "http://i.imgur.com/iQxpVKL.jpg",
+      "name": "Colorful Tiles",
+      "thumbnail": "http://i.imgur.com/N0KoFVE.jpg"
+    },
+    {
       "author": "Lotte Lohr",
       "url": "http://i.imgur.com/JUk6pTy.jpg",
       "name": "Banana Wall",
@@ -25,22 +37,10 @@
       "thumbnail": "http://i.imgur.com/S8EIr4C.jpg"
     },
     {
-      "author": "Andrew Ridley",
-      "url": "http://i.imgur.com/iQxpVKL.jpg",
-      "name": "Colorful Tiles",
-      "thumbnail": "http://i.imgur.com/N0KoFVE.jpg"
-    },
-    {
       "author": "Rohit Tandon",
       "url": "http://i.imgur.com/cgFdcZM.jpg",
       "name": "Grapes Hanging",
       "thumbnail": "http://i.imgur.com/b0ecqXP.jpg"
-    },
-    {
-      "author": "Rocío Pérez Rodríguez",
-      "url": "http://i.imgur.com/9zAImWV.jpg",
-      "name": "Served Table",
-      "thumbnail": "http://i.imgur.com/i2VSB6c.jpg"
     }
   ]
 }
